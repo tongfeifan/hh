@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PG student on Advanced Computer Science & IT Management.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Hi, there!
+I am a dreamer. 
+I like basketball. 
+I like music. 
+I like programing.
+I may be a geek.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tongfeifan@foxmail.com](mailto:tongfeifan@foxmail.com)
