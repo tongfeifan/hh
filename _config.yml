@@ -19,7 +19,7 @@ avatar: http://images.fineartamerica.com/images-medium-large/green-tree-leonid-a
 footer-links:
   dribbble: 
   email: tongfeifan@foxmail.com
-  facebook: 
+  facebook: profile.php?id=100003855584390
   flickr: 
   github: tongfeifan
   instagram: FEIFANT
@@ -49,7 +49,9 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
 highlighter: pygments
 permalink: /:title/
 
